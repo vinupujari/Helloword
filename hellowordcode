@@ -1,7 +1,11 @@
 class demo{
 public ststic  void main(string arg[]){
 
-void demo();
+void demo1(){
+
+doing the sum;
+}
+
 system.out.println("hellow word");
 }
 }
